@@ -99,8 +99,6 @@ fill in gaps in the data: books which currently have no topical terms defined.
 I would like thank my librarian friend nicknamed Nalice for verbose information
 on library catalogue system.
 
----
-
 ## Course completition certificate
 
 ![](./certificate-bai-advanced.png)
