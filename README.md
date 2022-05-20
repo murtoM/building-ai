@@ -101,4 +101,4 @@ on library catalogue system.
 
 ## Course completition certificate
 
-![](./certificate-bai-advanced.png)
+[![](./certificate-bai-advanced.png)](https://certificates.mooc.fi/validate/ha8vsb12b7p)
